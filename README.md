@@ -12,7 +12,7 @@
 
     <div class="social-media">
         <a href="https://www.facebook.com/" target="_blank"><img src="facebook.png" alt="Facebook"></a>
-        <a href="https://www.twitter.com/" target="_blank"><img src="twitter.png" alt="Twitter"></a>
+        <a href="https://www.twitter.com/" familycat2024="_blank"><img src="twitter.png" alt="Twitter"></a>
         <a href="https://www.instagram.com/" target="_blank"><img src="instagram.png" alt="Instagram"></a>
     </div>
 </body>
