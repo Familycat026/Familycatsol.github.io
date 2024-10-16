@@ -1,40 +1,19 @@
 # Familycatsol.github.io
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
-    <title>catfamily</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Websiteku</title>
     <link rel="stylesheet" href="style.css"> </head>
 <body>
-    <header>
-        <h1>welcome to family cat on sol!</h1>
-        <nav>
-            <ul>
-                <li><a href="#">comeback</a></li>
-                <li><a href="#">its fam</a></li>
-                <li><a href="#">contack</a></li>
-            </ul>
-        </nav>
-    </header>
+    <h1>Selamat Datang di Websiteku!</h1>
+    <p>Ini adalah contoh halaman web sederhana.</p>
 
-    <main>
-        <section>
-            <h2>its family</h2>
-            <p>we are family cat.</p>
-        </section>
-
-        <section>
-            <h2>Media Social</h2>
-            <ul class="social-media">
-        
-                <li><a href="(https://x.com/familycat2024?t=A4ubTmvlXnegXq8YLqEdhQ&s=09)"></i></a></li>
-                <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
-            </ul>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2023 </p>
-    </footer>
-
-    <script src="https://kit.fontawesome.com/your_api_key.js" crossorigin="anonymous"></script> </body>
+    <div class="social-media">
+        <a href="https://www.facebook.com/" target="_blank"><img src="facebook.png" alt="Facebook"></a>
+        <a href="https://www.twitter.com/" target="_blank"><img src="twitter.png" alt="Twitter"></a>
+        <a href="https://www.instagram.com/" target="_blank"><img src="instagram.png" alt="Instagram"></a>
+    </div>
+</body>
 </html>
