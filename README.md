@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Websiteku</title>
+    <title>familycat</title>
     <link rel="stylesheet" href="style.css"> </head>
 <body>
-    <h1>Selamat Datang di Websiteku!</h1>
-    <p>Ini adalah contoh halaman web sederhana.</p>
+    <h1>welcome to family cat!</h1>
+    <p>thi is simple meme.</p>
 
     <div class="social-media">
         <a href="https://www.facebook.com/" target="_blank"><img src="facebook.png" alt="Facebook"></a>
